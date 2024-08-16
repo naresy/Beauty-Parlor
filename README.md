@@ -1,26 +1,24 @@
 <header>
-            <h1>Welcome to the Salon Management System</h1>
-            <p>This system is your complete solution for managing salon appointments, staff, and client interactions efficiently.</p>
-        </header>
-
-        <section>
-            <h2>Key Features</h2>
-            <ul>
-                <li>Streamlined booking system for appointments.</li>
-                <li>Comprehensive admin panel for all backend management.</li>
-                <li>Integrated customer management interface.</li>
-                <li>Reports and analytics for business insights.</li>
-            </ul>
-        </section>
-
-        <section>
-            <h2>Requirements</h2>
-            <ul>
-                <li>PHP 7.2 or higher</li>
-                <li>MySQL 5.6 or higher</li>
-                <li>Apache or Nginx server</li>
-                <li>Composer for managing PHP dependencies</li>
-            </ul>
+<h1>Welcome to the Salon Management System</h1>
+ <p>This system is your complete solution for managing salon appointments, staff, and client interactions efficiently.</p>
+</header>
+<section>
+ <h2>Key Features</h2>
+<ul>
+<li>Streamlined booking system for appointments.</li>
+ <li>Comprehensive admin panel for all backend management.</li>
+<li>Integrated customer management interface.</li>
+<li>Reports and analytics for business insights.</li>
+</ul>
+</section>
+<section>
+<h2>Requirements</h2>
+<ul>
+ <li>PHP 7.2 or higher</li>
+ <li>MySQL 5.6 or higher</li>
+<li>Apache or Nginx server</li>
+<li>Composer for managing PHP dependencies</li>
+</ul>
         </section>
 
         <section>
