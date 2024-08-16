@@ -29,7 +29,7 @@
 <li>Navigate to the project directory and install dependencies:</li>
 <code>cd salon-management-system && composer install</code>
 <li>Configure your database settings in <code>config/database.php</code></li>
-<li>Import the provided SQL schema located in <code>database/schema.sql</code></li>
+<li>Import the provided SQL schema located in <code>database/bpmsdb.sql</code></li>
 <li>Set up your web server to point to the <code>public/</code> directory</li>
 </ol>
 </secti>
