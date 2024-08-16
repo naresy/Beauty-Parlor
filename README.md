@@ -40,8 +40,8 @@
  <section>
   <h2>Snapshots</h2>
   <div class="image-container">
-<img src="gallery/screenshot1.jpg" alt="Dashboard Snapshot">
-  <img src="gallery/screenshot2.jpg" alt="Booking Page Snapshot">
+<img src="https://github.com/naresy/Beauty-Parlor/galler/image1" >
+  <img src="https://github.com/naresy/Beauty-Parlor/galler/image2">
  </div>
   <p>Here are some snapshots of the system in action, showcasing the user-friendly interface and features.</p>
   </section>
