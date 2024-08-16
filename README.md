@@ -38,8 +38,8 @@
 <p>To start using the system, navigate to your domain and log in using the admin credentials provided in your setup. Explore the admin panel to manage bookings, view reports, and configure system settings.</p>
  </section>
 <footer>
-<a href="https://github.com/yourusername/salon-management-system" class="button">Star on GitHub</a
- <a href="https://github.com/yourusername/salon-management-system/fork" class="button">Fork on GitHub</a>
+<a href="https://github.com/naresy/salon-management-system" class="button">Star on GitHub</a
+ <a href="https://github.com/naresy/salon-management-system/fork" class="button">Fork on GitHub</a>
  <p>If you like this project, give it a star and consider contributing!</p>
   </footer>
  </div>
