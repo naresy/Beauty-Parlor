@@ -37,6 +37,14 @@
 <h2>How to Use</h2>
 <p>To start using the system, navigate to your domain and log in using the admin credentials provided in your setup. Explore the admin panel to manage bookings, view reports, and configure system settings.</p>
  </section>
+ <section>
+  <h2>Snapshots</h2>
+  <div class="image-container">
+<img src="gallery/screenshot1.jpg" alt="Dashboard Snapshot">
+  <img src="gallery/screenshot2.jpg" alt="Booking Page Snapshot">
+ </div>
+  <p>Here are some snapshots of the system in action, showcasing the user-friendly interface and features.</p>
+  </section>
 <footer>
 <a href="https://github.com/naresy/Beauty-Parlor" class="button">Star on GitHub</a
  <a href="https://github.com/naresy/Beauty-Parlor/fork" class="button">Fork on GitHub</a>
